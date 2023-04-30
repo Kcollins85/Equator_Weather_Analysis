@@ -1,7 +1,5 @@
 # Equator Weather Analysis
 
-An assignment for Monash University's Data Analytics Bootcamp (2023)
-
 # Part 1: WeatherPy
 Create a Python script to visualise the weather of over 500 cities of varying distances from the equator using the citipy Python library Links to an external site, the OpenWeatherMap API Links to an external site, and my problem-solving skills to create a representative model of weather across cities.
 
@@ -18,3 +16,5 @@ Latitude vs. Wind Speed (m/s)
 Use the above weather data to plan future vacation using Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 
 - Use the Geoapify API and the geoViews Python library and employ Python skills to create map visualisations.
+
+An assignment for Monash University's Data Analytics Bootcamp (2023)
