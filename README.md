@@ -7,10 +7,10 @@ Create a Python script to visualise the weather of over 500 cities of varying di
 - Compute Linear Regression for Each Relationship
 - After each pair of plots, explain what the linear regression is modelling. Describe any relationships noticed and any other findings uncovered.
 
-Latitude vs. Temperature (C)
-Latitude vs. Humidity (%) 
-Latitude vs. Cloudiness (%) 
-Latitude vs. Wind Speed (m/s)
+- Latitude vs. Temperature (C)
+- Latitude vs. Humidity (%) 
+- Latitude vs. Cloudiness (%) 
+- Latitude vs. Wind Speed (m/s)
 
 # Part 2: VacationPy
 Use the above weather data to plan future vacation using Jupyter notebooks, the geoViews Python library, and the Geoapify API.
