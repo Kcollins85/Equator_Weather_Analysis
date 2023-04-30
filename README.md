@@ -3,9 +3,11 @@
 # Part 1: WeatherPy
 Create a Python script to visualise the weather of over 500 cities of varying distances from the equator using the citipy Python library Links to an external site, the OpenWeatherMap API Links to an external site, and my problem-solving skills to create a representative model of weather across cities.
 
-- Create Plots to Showcase the Relationship Between Weather Variables and Latitude
-- Compute Linear Regression for Each Relationship
-- After each pair of plots, explain what the linear regression is modelling. Describe any relationships noticed and any other findings uncovered.
+Create Plots to Showcase the Relationship Between Weather Variables and Latitude
+
+Compute Linear Regression for Each Relationship
+
+After each pair of plots, explain what the linear regression is modelling. Describe any relationships noticed and any other findings uncovered.
 
 - Latitude vs. Temperature (C)
 - Latitude vs. Humidity (%) 
